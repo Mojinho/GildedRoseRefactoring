@@ -1,5 +1,4 @@
-﻿======================================
-Gilded Rose Refactoring
+﻿Gilded Rose Refactoring
 ======================================
 
 Mode d'emploi :
